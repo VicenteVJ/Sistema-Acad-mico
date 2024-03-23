@@ -10,7 +10,7 @@ import visao.TelaCadastroCurso;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class ControleCurso extends ControleCadastroGenerico<Curso>{
     
