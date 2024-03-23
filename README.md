@@ -10,3 +10,8 @@ Cadastro de Dados: A interface oferece um formulário intuitivo para o usuário 
 Salvar Lista: Após o preenchimento dos dados, o usuário tem a opção de salvar a lista, armazenando as informações de forma persistente para acesso posterior. Isso proporciona conveniência e segurança, garantindo que os dados não sejam perdidos entre sessões.
 
 Excluir da Lista: Além de inserir dados, a interface permite ao usuário gerenciar a lista, incluindo a capacidade de excluir entradas específicas conforme necessário. Isso proporciona flexibilidade e controle sobre os dados armazenados.
+![image](https://github.com/VicenteVJ/Sistema-Acad-mico/assets/106132901/a0f624dc-85dc-4c0c-b1a0-ce8a56c7429a)
+![image](https://github.com/VicenteVJ/Sistema-Acad-mico/assets/106132901/0bbb7dd3-f689-4da6-ad4a-d8f92c3d0cd9)
+![image](https://github.com/VicenteVJ/Sistema-Acad-mico/assets/106132901/3a4fd61c-9bf9-4604-b277-8c4984464ffd)
+
+
