@@ -14,7 +14,7 @@ import visao.TelaListaCadastro;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  * @param <T>
  */
 public abstract class ControleCadastroGenerico<T> implements IControleCadastro {
