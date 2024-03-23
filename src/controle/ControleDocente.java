@@ -10,7 +10,7 @@ import visao.TelaCadastroPessoa;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class ControleDocente extends ControleFuncionario{
     

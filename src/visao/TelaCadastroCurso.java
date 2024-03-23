@@ -8,7 +8,7 @@ import util.DialogBoxUtils;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class TelaCadastroCurso extends TelaCadastro {
 

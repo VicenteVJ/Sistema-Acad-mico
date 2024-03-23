@@ -5,7 +5,7 @@ import visao.TelaLogin;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class ControleLogin {
     

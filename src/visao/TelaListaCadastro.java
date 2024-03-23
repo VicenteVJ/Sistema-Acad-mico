@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author ANDRE.LUCHESI
+ * @author Vicente
  */
 public class TelaListaCadastro extends javax.swing.JFrame {
 

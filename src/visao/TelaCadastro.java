@@ -5,7 +5,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public abstract class TelaCadastro extends javax.swing.JFrame {
 

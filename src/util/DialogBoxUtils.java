@@ -5,7 +5,7 @@ import principal.Main;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class DialogBoxUtils {
     

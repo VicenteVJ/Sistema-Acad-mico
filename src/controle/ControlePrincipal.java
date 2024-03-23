@@ -6,7 +6,7 @@ import visao.TelaPrincipal;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class ControlePrincipal {
 

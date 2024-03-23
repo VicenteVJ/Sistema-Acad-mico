@@ -5,7 +5,7 @@ import util.DateUtils;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public abstract class Pessoa implements Comparable<Pessoa>, IDescricao{
 

@@ -8,7 +8,7 @@ import modelo.Pessoa;
 
 /**
  *
- * @author Andre
+ * @author AVicente
  * @param <T>
  */
 public abstract class ControlePessoa<T extends Pessoa> extends ControleCadastroGenerico<T>{

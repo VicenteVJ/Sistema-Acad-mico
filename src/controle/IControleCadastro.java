@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public interface IControleCadastro {
     

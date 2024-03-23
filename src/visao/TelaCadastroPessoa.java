@@ -18,7 +18,7 @@ import util.NumberUtils;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class TelaCadastroPessoa extends TelaCadastro {
 

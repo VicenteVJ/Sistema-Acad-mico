@@ -8,7 +8,7 @@ import controle.ControlePrincipal;
 
 /**
  *
- * @author Andre
+ * @author Vicente
  */
 public class TelaPrincipal extends javax.swing.JFrame {
 
